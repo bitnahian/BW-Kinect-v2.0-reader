@@ -1,0 +1,16 @@
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\bin\Debug\KinectApp.exe.config
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\bin\Debug\KinectApp.exe
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\bin\Debug\KinectApp.pdb
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\bin\Debug\Microsoft.Kinect.dll
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\bin\Debug\Microsoft.Kinect.xml
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\obj\Debug\KinectApp.csprojResolveAssemblyReference.cache
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\obj\Debug\MainWindow.g.cs
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\obj\Debug\App.g.cs
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\obj\Debug\KinectApp_MarkupCompile.cache
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\obj\Debug\KinectApp_MarkupCompile.lref
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\obj\Debug\MainWindow.baml
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\obj\Debug\KinectApp.g.resources
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\obj\Debug\KinectApp.Properties.Resources.resources
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\obj\Debug\KinectApp.csproj.GenerateResource.Cache
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\obj\Debug\KinectApp.exe
+c:\users\alhas\onedrive\documents\visual studio 2015\Projects\KinectApp\KinectApp\obj\Debug\KinectApp.pdb
